@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "334583314906",
+    "project_id": "attendance-f365b",
+    "storage_bucket": "attendance-f365b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334583314906:android:84d3fb7d92abff24a6a8e3",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFIpvIWJmnVzbSGaWEEMoFuUWvBSMRbVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
